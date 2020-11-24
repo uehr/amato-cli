@@ -26,9 +26,8 @@
         "@types/argv": "^0.0.4",
         "@types/fs-extra": "^9.0.4",
         "@types/node": "^14.14.9",
-        "amato": "^1.0.2",
-        "fs-extra": "^9.0.1",
-        "argv": "^0.0.2"
+        "argv": "^0.0.2",
+        "fs-extra": "^9.0.1"
     },
     "devDependencies": {
         "@types/node": "^14.14.9",
