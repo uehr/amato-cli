@@ -1,8 +1,7 @@
 # What's amATO
 - amATO / あまと
-- プレゼンテーションツール
-- Markdownで書いたプレゼン資料を**お手軽**にリッチなスライド資料へ
-- お手軽にスライドデザインを切り替えられる
+- Presentation tool.
+- Easily turn Markdown presentations into rich slides.
 
 # Demo
 [Demo Page](https://uehr.s3-ap-northeast-1.amazonaws.com/amato-demo.html)
@@ -14,7 +13,7 @@ $ npm install amato-cli
 
 # Usage
 
-1. Markdownで資料作成
+1. Writing markdown.
 
 ```markdown:sample/sample.md
 # This is sample
@@ -25,7 +24,7 @@ $ npm install amato-cli
 ## slide3 :D
 ```
 
-2. MarkdownファイルをHTMlへ変換
+2. Convert Markdown to html.
 
 ```bash
 $ amato-cli sample/sample.md -o sample
@@ -36,7 +35,7 @@ Generating slides.
 Complate.
 ```
 
-3. 生成された**htmlファイル**をブラウザで開く
+3. Open the generated html file in the browser
 ```bash
 $ open sample.html
 ```
