@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import amato from "amato"
 import argv from "argv"
 import process from "process"
