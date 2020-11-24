@@ -1,6 +1,6 @@
 {
     "name": "amato-cli",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "",
     "bin": {
         "amato-cli": "dist/index.js"
