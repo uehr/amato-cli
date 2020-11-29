@@ -48,6 +48,30 @@ $ open sample.html
 ```
 
 ---
+# Source for this slides[[fab fa-slideshare fa-rotate]]<<.headline>>
+```markdown:sample.md
+# Sample Slide [[fab fa-slideshare]]<<.title.blur>>
+by amATO<<.blur>>
+
+---
+# What's amATO[[fas fa-question fa-rotate]]<<.headline>>
+- amATO / あまと
+- Presentation tool.
+- Easily turn Markdown presentations into rich slides.
+
+---
+# Demo[[fas fa-question fa-rotate]]<<.headline>>
+# This slide.
+
+---
+# Installation[[fas fa-spinner fa-rotate]]<<.headline>>
+```bash
+$ npm install amato-cli
+
+・・・・・・・・・・・・
+```
+
+---
 # Develop[[fas fa-user fa-rotate]]<<.headline>>
 - Author: [@uehr37](https://twitter.com/uehr37)
 - License: MIT
