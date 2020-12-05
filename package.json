@@ -1,6 +1,6 @@
 {
     "name": "amato-cli",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "",
     "bin": {
         "amato-cli": "dist/index.js"
@@ -26,6 +26,7 @@
         "@types/argv": "^0.0.4",
         "@types/fs-extra": "^9.0.4",
         "@types/node": "^14.14.9",
+        "amato": "*",
         "argv": "^0.0.2",
         "fs-extra": "^9.0.1"
     },
