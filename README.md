@@ -40,6 +40,32 @@ Complate.
 $ open sample.html
 ```
 
+# amato-cli --help
+
+```
+Usage: amato-cli [options]
+
+	--help, -h
+		Displays help information about this script
+		'amato-cli -h' or 'amato-cli --help'
+
+	--version
+		Displays version info
+		amato-cli --version
+
+	--style, -s
+		Choose a design template.
+		amato-cli example.md -s your-favorite-style
+
+	--output, -o
+		Choose a output directory.
+		amato-cli example.md -o artifacts
+
+	--style-list, -l
+		The list of styles.
+		amato-cli --style-list
+```
+
 # Develop
 - Author: [@uehr37](https://twitter.com/uehr37)
 - License: MIT
